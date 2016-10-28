@@ -1,0 +1,2 @@
+# blog-python
+init project
